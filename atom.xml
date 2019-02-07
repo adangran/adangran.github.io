@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://adangran.github.io/"/>
-  <updated>2019-02-07T12:25:49.926Z</updated>
+  <updated>2019-02-07T07:25:46.394Z</updated>
   <id>https://adangran.github.io/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Hello World</title>
+    <link href="https://adangran.github.io/2019/02/07/hello-world/"/>
+    <id>https://adangran.github.io/2019/02/07/hello-world/</id>
+    <published>2019-02-07T13:11:42.225Z</published>
+    <updated>2019-02-07T07:25:46.394Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>测试文章</title>
     <link href="https://adangran.github.io/2019/02/07/ce-shi-wen-zhang/"/>
     <id>https://adangran.github.io/2019/02/07/ce-shi-wen-zhang/</id>
     <published>2019-02-07T12:15:30.000Z</published>
-    <updated>2019-02-07T12:25:49.926Z</updated>
+    <updated>2019-02-07T13:11:32.958Z</updated>
     
     <summary type="html">
     
@@ -41,28 +63,6 @@
       <category term="未归类" scheme="https://adangran.github.io/tags/%E6%9C%AA%E5%BD%92%E7%B1%BB/"/>
     
       <category term="Blog" scheme="https://adangran.github.io/tags/Blog/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://adangran.github.io/2019/02/07/hello-world/"/>
-    <id>https://adangran.github.io/2019/02/07/hello-world/</id>
-    <published>2019-02-07T12:03:39.195Z</published>
-    <updated>2019-02-07T07:25:46.394Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
-        
-      
-    
-    </summary>
-    
     
   </entry>
   
