@@ -20,7 +20,7 @@
     <title>Hello World</title>
     <link href="https://adangran.github.io/2019/02/07/hello-world/"/>
     <id>https://adangran.github.io/2019/02/07/hello-world/</id>
-    <published>2019-02-07T14:13:25.929Z</published>
+    <published>2019-02-07T15:15:22.422Z</published>
     <updated>2019-02-07T07:25:46.394Z</updated>
     
     <summary type="html">
@@ -35,6 +35,40 @@
     
     </summary>
     
+    
+  </entry>
+  
+  <entry>
+    <title>windows 10配置及常用软件安装</title>
+    <link href="https://adangran.github.io/2019/02/07/windows-10-pei-zhi-ji-chang-yong-ruan-jian-an-zhuang/"/>
+    <id>https://adangran.github.io/2019/02/07/windows-10-pei-zhi-ji-chang-yong-ruan-jian-an-zhuang/</id>
+    <published>2019-02-07T15:11:53.000Z</published>
+    <updated>2019-02-07T15:15:12.294Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;  
+
+&lt;h1 id=&quot;实验报告：win-10系统的重装及配置&quot;&gt;&lt;a href=&quot;#实验报告：win-10系统的重装及配置&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="实验报告" scheme="https://adangran.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    
+      <category term="windows 10" scheme="https://adangran.github.io/tags/windows-10/"/>
+    
+      <category term="msys2" scheme="https://adangran.github.io/tags/msys2/"/>
+    
+      <category term="python" scheme="https://adangran.github.io/tags/python/"/>
+    
+      <category term="软件" scheme="https://adangran.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
     
   </entry>
   
