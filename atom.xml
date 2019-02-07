@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://adangran.github.io/"/>
-  <updated>2019-02-07T07:25:46.394Z</updated>
+  <updated>2019-02-07T12:19:50.333Z</updated>
   <id>https://adangran.github.io/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="https://adangran.github.io/2019/02/07/ce-shi-wen-zhang/"/>
+    <id>https://adangran.github.io/2019/02/07/ce-shi-wen-zhang/</id>
+    <published>2019-02-07T12:15:30.000Z</published>
+    <updated>2019-02-07T12:19:50.333Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;测试文章&quot;&gt;&lt;a href=&quot;#测试文章&quot; class=&quot;headerlink&quot; title=&quot;测试文章&quot;&gt;&lt;/a&gt;测试文章&lt;/h1&gt;&lt;h2 id=&quot;标题二&quot;&gt;&lt;a href=&quot;#标题二&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Markdown" scheme="https://adangran.github.io/categories/Markdown/"/>
+    
+    
+      <category term="未归类" scheme="https://adangran.github.io/tags/%E6%9C%AA%E5%BD%92%E7%B1%BB/"/>
+    
+      <category term="Blog" scheme="https://adangran.github.io/tags/Blog/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
